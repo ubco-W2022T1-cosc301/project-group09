@@ -16,7 +16,7 @@ The data set we have chosen was provided on data.world by Chris Awram who collec
 
 **Please remember to update this section**
 
-- **Person 1:** one sentence about you!
+- **Person 1:** My name is Rebecca Martell and I am a third year psychology major. *Project Question:* Exploring the relationship between the location (US states) police fatalities occur in and race.
 - **Person 2:** one sentence about you!
 - **Person 3:** My name is Zackary Nielsen and I am a 4th year psychology major. *Project Question:* explore the relationship between mental health status and fleeing from the police, or age.
 
