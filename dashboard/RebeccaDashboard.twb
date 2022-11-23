@@ -1021,8 +1021,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='85' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='84' param='vert' type-v2='layout-flow' w='99030' x='485' y='1000'>
+            <zone h='100000' id='87' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='86' param='vert' type-v2='layout-flow' w='99030' x='485' y='1000'>
                 <zone fixed-size='266' h='34246' id='16' is-fixed='true' name='Police Fatalities Across Race' w='47889' x='485' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
