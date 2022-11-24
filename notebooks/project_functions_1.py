@@ -41,7 +41,7 @@ def load_and_process(url_or_path_to_csv_file):
     
     # Method Chain 1 - Need to create new columns first because we need to do dropna on the newly created column + (Load Data, Create new columns, and drop others)
     df1 = (
-        pd.read_csv(url_or_path_to_csv_file,encoding="ISO-88591")
+        pd.read_csv(url_or_path_to_csv_file,encoding="ISO-8859-1")
         .assign(Year=lambda x:pd.DatetimeIndex(df['Date']).year)
         .assign(Month=lambda x:pd.DatetimeIndex(df['Date']).month)
         .assign(filtered_age = lambda df_: pd.to_numeric(drop_outliers_IQR(df['Age'])))

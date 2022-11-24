@@ -59,6 +59,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 5875,3/3/2011,2011,3,Van Dinh Le,57.0,55-65,Male,Asian,Escondido,CA,Shot,,True
 5988,4/23/2011,2011,4,Kirill Denyakin,26.0,25-35,Male,Asian,Portsmouth,VA,Shot,,False
 5990,4/24/2011,2011,4,Edgar Battad,63.0,55-65,Male,Asian,Monterey Park,CA,Shot,,False
+6138,7/4/2011,2011,7,Jagtar Singh Kang,72.0,65+,Male,Asian,Yuba City,CA,Shot,,False
 6307,9/14/2011,2011,9,Samuel Liaw,42.0,35-45,Male,Asian,Monterey Park,CA,Shot,,False
 6352,10/3/2011,2011,10,Peter Woo,44.0,35-45,Male,Asian,San Francisco,CA,Shot,,False
 6483,12/2/2011,2011,12,Shendon Chandler-Taniguchi,21.0,18-25,Male,Asian,Pakala Village,HI,Shot,,True
@@ -647,6 +648,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 4137,3/1/2008,2008,3,Maurice Leroy Cox,38.0,35-45,Male,Black,Los Angeles,CA,Shot,Gun,False
 4144,3/4/2008,2008,3,Lawrence Smith,24.0,18-25,Male,Black,Los Angeles,CA,Shot,,False
 4149,3/8/2008,2008,3,Tremaine Darnell Flanagan,28.0,25-35,Male,Black,Port Arthur,TX,Shot,Gun,False
+4157,3/14/2008,2008,3,Casper Banjo,71.0,65+,Male,Black,Oakland,CA,Shot,,False
 4172,3/25/2008,2008,3,Sierra White,30.0,25-35,Male,Black,Jacksonville,FL,Shot,Gun,True
 4189,4/10/2008,2008,4,Tyrone Hawkins,31.0,25-35,Male,Black,Dundee,FL,Shot,Unarmed,False
 4191,4/11/2008,2008,4,Timothy Lemuel Stokes,28.0,25-35,Male,Black,Houston,TX,Shot,,False
@@ -1533,6 +1535,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 9211,6/2/2014,2014,6,Frank McQueen,34.0,25-35,Male,Black,Chester,PA,Shot,,False
 9214,6/4/2014,2014,6,Thomas Dewitt Johnson,28.0,25-35,Male,Black,Jacksonville,FL,Shot,Gun,False
 9215,6/4/2014,2014,6,Demetrice D. Presnall,22.0,18-25,Male,Black,Flint,MI,Shot,Gun,False
+9219,6/4/2014,2014,6,Lawrence H. Faine,72.0,65+,Male,Black,Norfolk,VA,Shot,Knife,True
 9221,6/5/2014,2014,6,Steven Jerold Thompson,26.0,25-35,Male,Black,Lauderhill,FL,Shot,Gun,False
 9226,6/6/2014,2014,6,David Latham,35.0,25-35,Male,Black,Norfolk,VA,Shot,Knife,True
 9230,6/7/2014,2014,6,Lonnie Flemming,31.0,25-35,Male,Black,East Knoxville,TN,Shot,,False
@@ -3395,6 +3398,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 7022,7/22/2012,2012,7,Joel Acevedo,22.0,18-25,Male,Hispanic,Anaheim,CA,Shot,,False
 7024,7/23/2012,2012,7,Andy Puente Soto,43.0,35-45,Male,Hispanic,Las Vegas,NV,Shot,Unarmed,False
 7038,7/27/2012,2012,7,Alfredo Hector Aragon,35.0,25-35,Male,Hispanic,San Antonio,TX,Shot,,False
+7050,7/30/2012,2012,7,Jose Naveja,71.0,65+,Male,Hispanic,Santa Maria,CA,Shot,Gun,False
 7054,7/31/2012,2012,7,Gerardo Delgado,56.0,55-65,Male,Hispanic,Miami,FL,Shot,,False
 7061,8/3/2012,2012,8,Javier Ortiz,31.0,25-35,Male,Hispanic,Palmdale,CA,Shot,Gun,True
 7068,8/8/2012,2012,8,Miguel Martinez,49.0,45-55,Male,Hispanic,Abilene,TX,Shot,Gun,False
@@ -3567,6 +3571,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 8533,11/15/2013,2013,11,Paul Aguilar,21.0,18-25,Male,Hispanic,Rosemead,CA,Shot,Knife,True
 8552,11/19/2013,2013,11,Jesus Huerta,17.0,0-18,Male,Hispanic,Durham,NC,Shot,,False
 8562,11/22/2013,2013,11,Jose Jovanny Mendoza,18.0,0-18,Male,Hispanic,Los Angeles,CA,Shot,Gun,False
+8570,11/25/2013,2013,11,Robert Reagh Gillon,72.0,65+,Male,Hispanic,Granada Hills,CA,Shot,Gun,False
 8576,11/27/2013,2013,11,Simon Pascual Ramirez,30.0,25-35,Male,Hispanic,Oklahoma City,OK,Shot,Gun,False
 8581,11/28/2013,2013,11,Albert Manuel Vasquez,42.0,35-45,Male,Hispanic,San Jose,CA,Shot,,False
 8601,12/4/2013,2013,12,Dixon Rodriguez,31.0,25-35,Male,Hispanic,Perth Amboy,NJ,Shot,Knife,False
@@ -4308,6 +4313,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 14733,8/18/2016,2016,8,Francisco Villarreal,37.0,35-45,Male,Hispanic,Bakersfield,CA,Shot,Gun,False
 14740,8/19/2016,2016,8,Marcelo Luna,47.0,45-55,Male,Hispanic,East Hollywood,CA,Shot,Bayonet,True
 14741,8/19/2016,2016,8,Jorge Ceniceros,22.0,18-25,Male,Hispanic,Phoenix,AZ,Shot,Gun,False
+14745,8/20/2016,2016,8,Pedro Montanez,71.0,65+,Male,Hispanic,Indio,CA,Shot,Knife,False
 14749,8/24/2016,2016,8,Elias Portillo,36.0,35-45,Male,Hispanic,Oak Cliff,TX,Shot,Gun,False
 14755,8/27/2016,2016,8,Angel Torres Jr.,26.0,25-35,Male,Hispanic,Phoenix,AZ,Shot,Toy Weapon,False
 14771,9/1/2016,2016,9,Joshua Quintero,23.0,18-25,Male,Hispanic,Florence,CA,Shot,Gun,False
@@ -4665,6 +4671,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 656,6/10/2001,2001,6,Beau Kirnol Blain,28.0,25-35,Male,White,Oxnard,CA,Shot,,True
 659,6/12/2001,2001,6,Timothy J. Whettam,36.0,35-45,Male,White,Waukesha,WI,Shot,,True
 664,6/19/2001,2001,6,Robert Phelps,31.0,25-35,Male,White,Killingly,CT,Shot,,False
+671,6/23/2001,2001,6,Robert Glenn Crawford,72.0,65+,Male,White,Princeton,MN,Shot,Gun,False
 688,7/9/2001,2001,7,Raymond Leonard Youngberg Jr.,50.0,45-55,Male,White,Portland,OR,Shot,Gun,True
 700,7/13/2001,2001,7,Kevin Dale Cox,38.0,35-45,Male,White,Lubbock,TX,Shot,,False
 717,7/26/2001,2001,7,Richard Gerald Bracklow,46.0,45-55,Male,White,Stirling City,CA,Shot,Gun,True
@@ -5530,6 +5537,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 6194,8/1/2011,2011,8,Carl Maggiorini Jr.,39.0,35-45,Male,White,Fresno,CA,Shot,Knife,True
 6195,8/1/2011,2011,8,Richard W. North,50.0,45-55,Male,White,Bloomington,IN,Shot,Gun,False
 6198,8/2/2011,2011,8,Fallon Rae (Blanchette) Frederick,30.0,25-35,Female,White,Rogers,AR,Shot,Knife,True
+6204,8/5/2011,2011,8,Francis Howard Morrell,71.0,65+,Male,White,Cape Canaveral,FL,Shot,,False
 6212,8/7/2011,2011,8,Rudy Lee Ledbetter,54.0,45-55,Male,White,San Diego,CA,Shot,Gun,True
 6213,8/7/2011,2011,8,Michael E. Hance,51.0,45-55,Male,White,Copley Township,OH,Shot,,False
 6214,8/8/2011,2011,8,Dennis Glenn,47.0,45-55,Male,White,Spring,TX,Shot,Gun,False
@@ -5640,6 +5648,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 6595,1/21/2012,2012,1,Christian Cobian,26.0,25-35,Male,White,Lancaster,CA,Shot,,False
 6597,1/22/2012,2012,1,Karapet Bulmadzhyan,22.0,18-25,Male,White,Los Angeles,CA,Shot,,False
 6604,1/24/2012,2012,1,Kevin Carlson,24.0,18-25,Male,White,Mesa,AZ,Shot,,False
+6605,1/24/2012,2012,1,Edward Flener,72.0,65+,Male,White,Chandler,AZ,Shot,Gun,True
 6606,1/25/2012,2012,1,Bradley Lee Morgan,21.0,18-25,Male,White,Portland,OR,Shot,Knife,False
 6607,1/26/2012,2012,1,Frank Anthony Schoen,56.0,55-65,Male,White,Texarkana,TX,Shot,Gun,False
 6612,1/28/2012,2012,1,Jason Edward Prostrollo,25.0,18-25,Male,White,Scottsdale,AZ,Shot,Knife,False
@@ -5893,6 +5902,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 7558,2/18/2013,2013,2,Kevin William Hassell,31.0,25-35,Male,White,Brighton,MI,Shot,Gun,False
 7559,2/18/2013,2013,2,Paul Tereschenko,35.0,25-35,Male,White,Sacramento,CA,Shot,Unarmed,True
 7561,2/19/2013,2013,2,Carl Bowie III,25.0,18-25,Male,White,Anchorage,AK,Shot,,False
+7569,2/21/2013,2013,2,Clifton Thomson,72.0,65+,Male,White,Manchester,PA,Shot,,True
 7572,2/22/2013,2013,2,Martin Y. Potts,29.0,25-35,Male,White,Springfield,MO,Shot,,False
 7576,2/23/2013,2013,2,Gary Allen Hawkins,33.0,25-35,Male,White,Stockton,CA,Shot,Gun,False
 7578,2/23/2013,2013,2,David Krambs,34.0,25-35,Male,White,Sparks,NV,Shot,Gun,True
@@ -5981,6 +5991,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 7906,5/25/2013,2013,5,Jeff Foote,39.0,35-45,Male,White,Washington Terrace,UT,Shot,Gun,True
 7908,5/26/2013,2013,5,Theodore Dennis Vanosdall,36.0,35-45,Male,White,Salida,CO,Shot,,False
 7909,5/26/2013,2013,5,Anthony Galla,32.0,25-35,Male,White,Upper Darby,PA,Shot,Gun,False
+7913,5/28/2013,2013,5,Jerry Wayne Waller,72.0,65+,Male,White,Fort Worth,TX,Shot,,False
 7914,5/28/2013,2013,5,Angela Darlene Smith,37.0,35-45,Female,White,Crossville,TN,Shot,Gun,False
 7926,5/31/2013,2013,5,Michael Neal Peters,54.0,45-55,Male,White,Broad Creek,NC,Shot,Gun,True
 7927,6/1/2013,2013,6,Giacomo James Cargnoni,21.0,18-25,Male,White,San Diego,CA,Shot,Gun,False
@@ -6429,6 +6440,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 9362,7/14/2014,2014,7,Timothy Mitchell,46.0,45-55,Male,White,Munising Township,MI,Shot,,True
 9363,7/15/2014,2014,7,Justin Neil Davis,24.0,18-25,Male,White,Germantown,TN,Shot,Toy weapon,True
 9368,7/16/2014,2014,7,Misty Holt-Singh,41.0,35-45,Female,White,Stockton,CA,Shot,,False
+9371,7/17/2014,2014,7,Glenn Ray Glancey,71.0,65+,Male,White,Reedsport,OR,Shot,Gun,False
 9373,7/18/2014,2014,7,Cadence Harris,5.0,0-18,Female,White,Leavenworth,KS,Shot,,False
 9378,7/20/2014,2014,7,Richard Trevor Duncalf,28.0,25-35,Male,White,Kent,WA,Shot,,False
 9382,7/22/2014,2014,7,Jeremy Robertson,33.0,25-35,Male,White,Albuquerque,NM,Shot,Gun,False
@@ -6476,6 +6488,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 9547,8/28/2014,2014,8,Erik Charles Lebak,32.0,25-35,Male,White,Redding,CA,Shot,Gun,True
 9551,8/30/2014,2014,8,Stephen Porter Johnston,51.0,45-55,Male,White,Seattle,WA,Shot,,False
 9552,8/30/2014,2014,8,Justin Burch,21.0,18-25,Male,White,Hattiesburg,MS,Shot,Gun,False
+9554,8/30/2014,2014,8,George Carson,71.0,65+,Male,White,Hoisington,KS,Shot,Gun,False
 9556,8/31/2014,2014,8,Mitch Allen Thompson,52.0,45-55,Male,White,Claude,TX,Shot,,True
 9559,9/1/2014,2014,9,Richard Wray Rick Aceves,55.0,45-55,Male,White,Phoenix,AZ,Shot,Gun,False
 9563,9/3/2014,2014,9,Michael Bresley,41.0,35-45,Male,White,Oxford,AL,Shot,,False
@@ -6726,6 +6739,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 10336,4/11/2015,2015,4,Donald W. Allen,66.0,65+,Male,White,Sand Springs,OK,Shot,Gun,True
 10344,4/14/2015,2015,4,Christopher Grant Finley,31.0,25-35,Male,White,Jonesboro,AR,Shot,,False
 10346,4/15/2015,2015,4,Mark W. Adair,51.0,45-55,Male,White,Columbia,MO,Shot,,False
+10352,4/15/2015,2015,4,Stanley Watson,72.0,65+,Male,White,CaÌ±on City,CO,Shot,Gun,True
 10362,4/18/2015,2015,4,Grover Zeno Sapp Jr.,45.0,35-45,Male,White,Panama City,FL,Shot,Gun,False
 10363,4/19/2015,2015,4,Dana Duwane Hlavinka,44.0,35-45,Male,White,Sidney,NE,Shot,Knife,False
 10365,4/19/2015,2015,4,Michael Foster,40.0,35-45,Male,White,Wilmore,KY,Shot,Gun,False
@@ -6872,6 +6886,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 10768,7/31/2015,2015,7,Jeremy Hatch,34.0,25-35,Male,White,Roswell,NM,Shot,,False
 10772,8/2/2015,2015,8,Virgil Lee Reynolds,63.0,55-65,Male,White,Houston,TX,Shot,,True
 10775,8/3/2015,2015,8,Shawn Michael Ruble,35.0,25-35,Male,White,Muncie,IN,Shot,Gun,False
+10777,8/3/2015,2015,8,Franklin M. Short,71.0,65+,Male,White,Powhatan,VA,Shot,,False
 10784,8/5/2015,2015,8,Tyler Alexander Dattilo,18.0,0-18,Male,White,Louisville,KY,Shot,Knife,False
 10787,8/5/2015,2015,8,John Dieringer,51.0,45-55,Male,White,Greenfield,WI,Shot,,True
 10788,8/5/2015,2015,8,Jason Galaviz,40.0,35-45,Male,White,Tacoma,WA,Shot,Gun,False
@@ -7118,6 +7133,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 11509,5/10/2005,2005,5,Karen McGowan,42.0,35-45,Female,White,Mountain Center,CA,Shot,,False
 11526,5/31/2005,2005,5,Toby Whelchel,38.0,35-45,Male,White,Simi Valley,CA,Shot,,False
 11542,7/3/2005,2005,7,Jeremy William Carter,31.0,25-35,Male,White,Fresno,CA,Shot,Gun,True
+11587,10/1/2005,2005,10,James Anthony Decosta,72.0,65+,Male,White,Petaluma,CA,Shot,Gun,False
 11628,7/12/2010,2010,7,Dennis Dwain Jackson,57.0,55-65,Male,White,Pasadena,TX,Shot,Gun,False
 11630,8/9/2010,2010,8,David Christian Ufert,43.0,35-45,Male,White,Pasadena,TX,Shot,Gun,False
 11633,2/19/2016,2016,2,Justin Patrick Moses,35.0,25-35,Male,White,Ogden,UT,Shot,,False
@@ -7392,6 +7408,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 13145,1/8/2015,2015,1,Loren Simpson,28.0,25-35,Male,White,Huntley,MT,Shot,Vehicle,False
 13146,1/8/2015,2015,1,James Dudley Barker,42.0,35-45,Male,White,Salt Lake City,UT,Shot,Shovel,False
 13148,1/8/2015,2015,1,Thomas Hamby,49.0,45-55,Male,White,Syracuse,UT,Shot,Gun,False
+13149,1/9/2015,2015,1,Jimmy Foreman,71.0,65+,Male,White,England,AR,Shot,Gun,False
 13151,1/11/2015,2015,1,Tommy Smith,39.0,35-45,Male,White,Arcola,IL,Shot,Gun,True
 13154,1/13/2015,2015,1,John Edward O'Keefe,34.0,25-35,Male,White,Albuquerque,NM,Shot,Gun,False
 13155,1/13/2015,2015,1,Richard McClendon,43.0,35-45,Male,White,Jourdanton,TX,Shot,Knife,True
@@ -7518,6 +7535,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 13406,4/12/2015,2015,4,Jason Lee Evans,32.0,25-35,Male,White,Salemburg,NC,Shot,Gun,True
 13409,4/14/2015,2015,4,Christopher Grant Finley,31.0,25-35,Male,White,Jonesboro,AR,Shot,Machete,True
 13413,4/15/2015,2015,4,Mark W. Adair,51.0,45-55,Male,White,Columbia,MO,Shot,Toy Weapon,False
+13414,4/15/2015,2015,4,Stanley Watson,72.0,65+,Male,White,CaÃ±on City,CO,Shot,Gun,True
 13421,4/18/2015,2015,4,Grover Sapp,45.0,35-45,Male,White,Panama City,FL,Shot,Gun,False
 13422,4/19/2015,2015,4,Michael Foster,40.0,35-45,Male,White,Wilmore,KY,Shot,Gun,True
 13423,4/19/2015,2015,4,Dana Hlavinka,44.0,35-45,Male,White,Sidney,NE,Shot,Knife,False
@@ -7655,6 +7673,7 @@ UID,Date,Year,Month,Name,filtered_age,Age_Group,Gender,Race,City,State,Manner_of
 13698,7/31/2015,2015,7,Jeremy  Hatch,34.0,25-35,Male,White,Roswell,NM,Shot,Gun,False
 13701,8/2/2015,2015,8,Virgil Reynolds,63.0,55-65,Male,White,Houston,TX,Shot,Vehicle,True
 13703,8/3/2015,2015,8,Joshua Malave,18.0,0-18,Male,White,Campbelltown,PA,Shot,Gun,False
+13704,8/3/2015,2015,8,Franklin Short,71.0,65+,Male,White,Powhatan County,VA,Shot,Gun,False
 13705,8/3/2015,2015,8,Shawn Ruble,35.0,25-35,Male,White,Muncie,IN,Shot,Gun,True
 13708,8/5/2015,2015,8,Tyler Alexander Dattilo,18.0,0-18,Male,White,Louisville,KY,Shot,Knife,False
 13709,8/5/2015,2015,8,John Dieringer,51.0,45-55,Male,White,Greenfield,WI,Shot,Knife,True
