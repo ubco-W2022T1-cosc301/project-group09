@@ -11,6 +11,18 @@
 
 ### Question 1 & Results (Rebecca)
 
+The following analyses were used as a way to gain insight into the relationship between the race of the victims and the states that police fatalities occur in. It was believed that by exploring this relationship, it may show patterns that could reveal whether the views and prejudices potentially held by police officers in each state, could contribute to a specific race being disproportionally impacted by police fatalities. 
+
+Therefore, to investigate this relationship, the following research quesions were used:
+
+**Research Question 1:** Are black individuals accounting for the majority of police fatality cases within the US?
+
+**Research Question 2:** What is the frequency of police fatalities for different states in the US?
+
+**Research Question 3:** Does the number of cases of police fatalities for specific races differ based on different US states on which it occurs in?
+
+
+
 ### Question 2 & Results (Cameron)
 
 ### Question 3 & Results (Zack)
