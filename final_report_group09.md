@@ -12,7 +12,8 @@ Civilian deaths involving police have increasingly become a topic of interest ov
 
 - White victims accounted for the majority of police fatalities (45.22% of cases), with black individuals accounting for the second highest (29.75% of cases).
 -  Asian (2.03%), native (1.52%) and 'other' (0.56%) victims accounted for less than 5% of the total cases of police fatalities.
-- California (23.73%) had a disproprotionality higher police fatality count compared to other states in the US. With Texas (10.87%) the second highest police fatality count.
+- California (23.73%) had a disproportionally higher police fatality count compared to other states in the US. With Texas (10.87%) as the second highest police fatality count.
+- North Dakota (0.094%) and Rhode island (12%) had the least number of total police fatality cases in the US.
 - The only 2 races that had police fatality cases in all states were black and white victims.
 
 **Figure I**
