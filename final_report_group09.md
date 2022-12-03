@@ -21,6 +21,7 @@ Therefore, to investigate this relationship, the following research quesions wer
 
 **Research Question 3:** Does the number of cases of police fatalities for specific races differ based on different US states on which it occurs in?
 
+<img src="images/figure4dashboard-rebecca" alt="Figure1Dashboard" height="400" width="450"/>
 
 
 ### Question 2 & Results (Cameron)
