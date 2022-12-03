@@ -21,7 +21,34 @@ Therefore, to investigate this relationship, the following research quesions wer
 
 **Research Question 3:** Does the number of cases of police fatalities for specific races differ based on different US states on which it occurs in?
 
-<img src="images/figure4dashboard-rebecca.JPG" alt="Figure1Dashboard" height="400" width="450"/>
+***Figure 1***:
+<img src="images/figure1_reb.png" alt="Figure1Dashboard" height="400" width="1000"/>
+<img src="images/figure1_rebecca.png" alt="Figure1Dashboard" height="600" width="1000"/>
+**Insight:** Figure 1 provides data to help answer research question 1, 'Are black individuals accounting for the majority of police fatality cases within the US?'. A countplot was chosen as the visualization type due to its ability to effectively visualize categorical data, in this case race against the frequency of each race present. Other than this, a countplot is great at making comparisons which is needed for this research question, since the aim is to compare the number of police fatalities of each race.
+As seen in this countplot, the highest number of police fatalities involved white victims, followed by black and hispanic victims. The 3 lowest counts of police fatalities by race would be asian, native and other. I suspect that the other category could potentially be due to police officers not knowing what the victims' race was.
+
+With the results from this visualization in mind, it leads me to believe that black individuals do not account for the majority of police fatalities within the US, but rather white individuals do. Perhaps a possible reason for this could be that there are other factors, other than race, that influence the occurance of police fatalities such as mental illness.
+
+***Figure 2***:
+<img src="images/fig2_reb.png" alt="Figure2" height="400" width="600"/>
+**Insight:** Figure 2 provides data to help answer research question 2, 'What is the frequency of police fatalities for different states in the US?'. A countplot was also used for this figure,due to the categorical nature of the data that I wanted to plot (State). Again, I needed to compare the count of cases per state and a countplot would be a clear visualization that would enable me to make comparisons. That said, figure 2 shows that California, Texas, Florida and Arizona have the top 4 highest total counts of police fatatlites. Moreover, Califronia takes on the highest count of police fataltiies, with its value being almost double of texas's count of cases (2nd highest state). This became a point of interest, due to reasons revolving around why califronia accounts for a vastly greater amount of police fatatlies compared to other US states. With the exception of the the highest 4 states, all the other states have a relatively lower count with its values slowly decreasing in a steady slope after sorting in ascending order. The 4 states with the lowest counts of police fatatlities were North Dakota, Rhode Island, Hawaii and Vermont. 
+
+These results have lead me to conclude that the majority of police fatalitiy cases are in California and that perhaps location could be a factor that is influencing these results. Since, California, Texas, Florida and Arizona are more towards the south of the US, as opposed to North Dakota, Rhode Island and Vermont which are more towards the north.
+
+***Figure 3***:
+<img src="images/fig3_reb.png" alt="Figure3" height="600" width="1300"/>
+**Insight:** Figure 3 was used to help with answering research question 3, 'Does the number of cases of police fatalities for specific races differ based on different US states on which it occurs in?'. A count barchart was used because of its ability to visualize categorical data (State and Race) alongside its frequency. Specifically, this visualization had both race and count on the x-axis, while state was plotted on the y-axis. This is because I wanted to visualize the count of cases per state but seperated specifically by each race. 
+
+That said, figure 3 shows that for White individuals, California, Texas and Florida had the highest number of police fatalities involving white victims, whereas DC and HI had the lowest count of white victims. 
+For Black individuals, California, Texas and Florida had the highest number of police fatalities involving black victims, whereas ID,MT,ND,NH,SD and WY had the lowest with 0 cases involving black victims. 
+For Hispanic victims, the highest count of cases were in California, Texas and Arizona, whereas the lowest counts were in in 8 (AR,DE,ME,MS,ND,SD,VT,and WV)states with 0 cases involving hispanic victims. 
+For Asian vicitms, the highest states were California, MN and Texas, whereas there were 0 cases involving asian victims in 24 states such as AK and DE. 
+For native individuals the highest states were Arizona, Califronia and WA, whereas there was 0 cases in 25 states. 
+For other, the highest counts were in California, WA and HI, whereas there were 0 other cases in 36 states.
+
+With these results in mind, I can conclude that the number of cases of police fatalities for specific races do differ based on different US states on which it occurs in. Tt can also be seen that California is consistent in its position as having one of the highest counts for all races and texas also showed up as being in the top 3 highest of 3 races. Additionally, it should also be noted that on average, black and white individuals were more common in terms of being victims of police fatalities. Moreover, this leads me to believe that perhaps these results could be influenced by the population of specific races within specific states in the US along with what the dominnant race within specific states and their views of other races  are. This may provide reasoning to support the data showing this pattern.
+
+
 
 
 ### Question 2 & Results (Cameron)
@@ -62,4 +89,3 @@ Figure 3 helped visualize the third research question: For what age groups is fl
 Victims without mental illness tended to flee more than victims with mental illness across every age group. One may expect those with mental illness to flee police more commonly due to issues with perception and social functioning. It is apparent that those who fled police and didn't have mental illness do so in a purposeful, deliberate manner. Overall, fleeing with mental illness was quite uncommon in comparison to fleeing without mental illness. It appears fleeing behaviour has a positive relationship with the absence of mental illness (i.e., the absence of mental illness results in an increased chance for fleeing behaviours, in this dataset).
 
 ### Summary/Conclusion
-
