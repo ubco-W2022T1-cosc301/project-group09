@@ -10,6 +10,11 @@ Civilian deaths involving police have increasingly become a topic of interest ov
 -	A sharp decrease in flee occurred across age groups 35-45 to 45-55
 -   Only 54 with mental illness fled while 463 without mental illness fled
 
+- White victims accounted for the majority of police fatalities (45.22% of cases), with black individuals accounting for the second highest (29.75% of cases).
+-  Asian (2.03%), native (1.52%) and 'other' (0.56%) victims accounted for less than 5% of the total cases of police fatalities.
+- California (23.73%) had a disproprotionality higher police fatality count compared to other states in the US. With Texas (10.87%) the second highest police fatality count.
+- The only 2 races that had police fatality cases in all states were black and white victims.
+
 **Figure I**
 
 <img src="images/figure_0_z.png" alt="descriptives" height="275" width="625"/>
@@ -31,7 +36,7 @@ Therefore, to investigate this relationship, the following research quesions wer
 ***Figure 1***:
 <img src="images/figure1_rebecca.png" alt="Figure1"/>
 **Insight:** Figure 1 provides data to help answer research question 1, 'Are black individuals accounting for the majority of police fatality cases within the US?'. A countplot was chosen as the visualization type due to its ability to effectively visualize categorical data, in this case race against the case count of each race present. Other than this, a countplot is great at making comparisons which is needed for this research question, since the aim is to compare the number of police fatalities of each race.
-As seen in this countplot, the highest number of police fatalities involved white victims, followed by black and hispanic victims. The 3 lowest counts of police fatalities by race would be asian, native and other. I suspect that the other category could potentially be due to police officers not knowing what the victims' race was.
+As seen in this countplot, the highest number of police fatalities involved white victims(45.22% of cases), followed by black(29.75% of cases) and hispanic victims. The 3 lowest counts of police fatalities by race would be asian, native and other. I suspect that the other category could potentially be due to police officers not knowing what the victims' race was.
 
 With the results from this visualization in mind, it leads me to believe that black individuals do not account for the majority of police fatalities within the US, but rather white individuals do. Perhaps a possible reason for this could be that there are other factors, other than race, that influence the occurance of police fatalities such as mental illness.
 

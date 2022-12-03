@@ -843,7 +843,7 @@
           <shelf-sorts>
             <shelf-sort-v2 dimension-to-sort='[federated.0prt3en0suiyz41h1fl750z1sw1w].[none:State:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0prt3en0suiyz41h1fl750z1sw1w].[__tableau_internal_object_id__].[cnt:rebeccaData.csv_A1A0CC3D4CE346A3B085D2911B04D868:qk]' shelf='rows'>
               <sort-filter-info>
-                <sort-filter level-name='[federated.0prt3en0suiyz41h1fl750z1sw1w].[none:Race:nk]' member-value='&quot;Native&quot;' />
+                <sort-filter level-name='[federated.0prt3en0suiyz41h1fl750z1sw1w].[none:Race:nk]' member-value='&quot;Other&quot;' />
               </sort-filter-info>
             </shelf-sort-v2>
           </shelf-sorts>
@@ -1156,7 +1156,7 @@
       </cards>
       <simple-id uuid='{3D09FA85-AAD3-4D27-9E78-4916DB8005D0}' />
     </window>
-    <window class='worksheet' name='Police Fatalities Across US States and by Race'>
+    <window class='worksheet' maximized='true' name='Police Fatalities Across US States and by Race'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1217,7 +1217,7 @@
       </cards>
       <simple-id uuid='{3168BC11-C443-46F0-BFFF-A452C7B785C0}' />
     </window>
-    <window class='worksheet' maximized='true' name='Police Fatalities for Specific Races Across US States'>
+    <window class='worksheet' name='Police Fatalities for Specific Races Across US States'>
       <cards>
         <edge name='left'>
           <strip size='100'>
