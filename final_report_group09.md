@@ -10,6 +10,11 @@ Civilian deaths involving police have increasingly become a topic of interest ov
 -	A sharp decrease in flee occurred across age groups 35-45 to 45-55
 -   Only 54 with mental illness fled while 463 without mental illness fled
 
+**Figure I**
+
+<img src="images/figure_0_z.png" alt="descriptives" height="275" width="625"/>
+
+*Note. Summary of victim characteristics, including mental illness and flee rates across age groups.*
 
 ### Question 1 & Results (Rebecca)
 
@@ -38,13 +43,6 @@ The following analyses were aimed at shedding light on the relationships between
 
 **RQ 3:** For what age groups is fleeing the police most common for those with/without mental illness?
 
-**Figure 3.0**
-
-<img src="images/figure_0_z.png" alt="descriptives" height="275" width="625"/>
-
-*Note. Summary of victim characteristics including mental illness and flee rates across age groups.*
-
-Figure 3.0 provides a quick look at some victim characteristics across age groups, including the presence of mental illness and if the victim fled police.
 
 **Figure 3.1**
 
