@@ -29,7 +29,7 @@ Therefore, to investigate this relationship, the following research quesions wer
 **Research Question 3:** Does the number of cases of police fatalities for specific races differ based on different US states on which it occurs in?
 
 ***Figure 1***:
-<img src="images/figure1_rebecca.png" alt="Figure1Dashboard" height="600" width="800"/>
+<img src="images/figure1_rebecca.png" alt="Figure1Dashboard" height="400" width="400"/>
 **Insight:** Figure 1 provides data to help answer research question 1, 'Are black individuals accounting for the majority of police fatality cases within the US?'. A countplot was chosen as the visualization type due to its ability to effectively visualize categorical data, in this case race against the case count of each race present. Other than this, a countplot is great at making comparisons which is needed for this research question, since the aim is to compare the number of police fatalities of each race.
 As seen in this countplot, the highest number of police fatalities involved white victims, followed by black and hispanic victims. The 3 lowest counts of police fatalities by race would be asian, native and other. I suspect that the other category could potentially be due to police officers not knowing what the victims' race was.
 
