@@ -65,7 +65,7 @@ With these results in mind, I can conclude that the number of cases of police fa
 
 ### Question 3 & Results (Zack)
 
-Please view [analysis notebok 3](https://github.com/ubco-W2022T1-cosc301/project-group09/blob/main/notebooks/analysis3.ipynb) for the complete process.
+Please view [analysis notebook 3](https://github.com/ubco-W2022T1-cosc301/project-group09/blob/main/notebooks/analysis3.ipynb) for the complete process.
 
 
 The following analyses were aimed at shedding light on the relationships between the age group of victims, mental illness presence, and flee patterns of those with and without mental illness. To investigate these relationships, I posited the following research questions: 
