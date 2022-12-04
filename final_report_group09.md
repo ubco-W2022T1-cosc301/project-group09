@@ -50,6 +50,34 @@ That said, figure 3 shows that for white individuals, California, Texas and Flor
 With these results in mind, I can conclude that the number of cases of police fatalities for specific races do differ based on different US states on which it occurs in. It can also be seen that California is consistent in its position as having one of the highest counts of police fatalities for all races and Texas also showed up as being in the top 3 highest counts for 3 races. Additionally, it should also be noted that on average, black and white individuals were more common in terms of being victims of police fatalities. Moreover, this leads me to believe that perhaps these results could be influenced by the population of specific races within specific states in the US, along with what the dominant race within specific states and the specific views they hold about other races. 
 
 ### Question 2 & Results (Cameron)
+The below analyses were used to identify the relationship between the race of victims, the presence of mental illness, and whether the victims were armed or not. In order to determine the relationship between these three aspects, I created the following research questions.
+
+**Question 1:** Is there a racial bias in the victims?
+
+**Question 2:** Is mental illness consistant throughout the victims?
+
+**Question 3:** Are non-armed victims being targeted?
+
+***Figure 1:***
+<img src="images\figure1_Cam.png" alt="Figure1" height="400" width="600"/>
+
+Figure 1 was created to help give insight to question 1 "Is there a racial bias in the victims?" Data was taken from the top three states with the highest victim counts (while also being the largest states) to get a better understanding of overall racial bias in the victims. One might assume that black victims would be leading in all three of these states, but upon investigation these assumptions are false. While black victims are in the top three victims by race, in two out of the three states white victims lead the death toll, with hispanic victims leading in California by quite a significant margin.
+
+Based on these results, one can assume that between 2000-2016 (the time-frame of the dataset), there was no racial bias in the victims
+
+***Figure 2:***
+<img src="images\figure2_Cam.png" alt="Figure2" height="400" width="600"/>
+
+Figure 2 was created to help answer the question "Is mental ilness in victims consistant?" Again, data was taken from the states with the highest population/victim count. In order California, Florida, and Texas had a 26%, 22%, and 24% rate of victims with mental illness. Considering the range of factors that go into these victims, it is quite surprising to see the percentages this close too each other.
+
+Based on these results, I don't think that it is safe to assume something like mental illness is consistant between the different states, however I think that in high density populations, one might find the numbers of victims with mental illness to be similar between states.
+
+***Figure 3:***
+<img src="images\figure3_Cam.png" alt="Figure3" height="400" width="600"/>
+
+Figure 3 was created to help answer the question "Are Unarmed victims being targeted?". Similar to the above two figures, data was taken from California, Florida and Texas. Upon investigation, all three states seem to have a significantly higher number of armed victims than unarmed victims. In the Unarmed count, toy weapons or objects originally perceived to be weapons are included, as I believe that this would give more accurate results. In the armed category, all weapons excluding null values, toy weapons, and objects such as hairbrushes are not included. In the case of California, 8% of the victims were armed. In Florida, this percentage goes up to 14% and in Texas, the precentage goes back down closer to California with 7%.  
+
+Based on these results, I do not believe that Unarmed victims are being "targeted" in any way. What was interesting about this particular data was that in states such as Texas (where the state is known for being weapon-heavy), the data seems to back up this generalization.
 
 ### Question 3 & Results (Zack)
 
