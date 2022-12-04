@@ -35,7 +35,7 @@ Therefore, to investigate this relationship, the following research questions we
 **Research Question 3:** Does the number of cases of police fatalities for specific races differ based on different US states on which it occurs in?
 
 ***Figure 1***:
-<img src="images/figure1_rebecca.png" alt="Figure1"/>
+<img src="images/fig1_reb.png" alt="Figure1"/>
 *Note: Countplot displaying the race of the victims against the total number of police fatalities. Different colors were used to represent different races and the values represent the specific number of victims for each race.*
 
 **Insight:** Figure 1 provides data to help answer research question 1, 'Are Black individuals accounting for the majority of police fatality cases within the US?'. A countplot was chosen as the visualization type due to its ability to effectively visualize categorical data, in this case race against the case count of each race present. Other than this, a countplot is great at making comparisons which is needed for this research question, since the aim is to compare the number of police fatalities of each race.
