@@ -65,6 +65,9 @@ With these results in mind, I can conclude that the number of cases of police fa
 
 ### Question 3 & Results (Zack)
 
+Please view [analysis notebok 3](https://github.com/ubco-W2022T1-cosc301/project-group09/blob/main/notebooks/analysis3.ipynb) for the complete process.
+
+
 The following analyses were aimed at shedding light on the relationships between the age group of victims, mental illness presence, and flee patterns of those with and without mental illness. To investigate these relationships, I posited the following research questions: 
 
 **RQ 1:** What is the prevalence of mental illness across age groups?
@@ -109,3 +112,5 @@ Figure 3.3 helped visualize the third research question: For what age groups is 
 Victims without mental illness tended to flee more than victims with mental illness across every age group. One may expect those with mental illness to flee police more commonly due to issues with perception and social functioning. It is apparent that those who fled police and didn't have mental illness do so in a purposeful, deliberate manner. Overall, fleeing with mental illness was quite uncommon in comparison to fleeing without mental illness. It appears fleeing behaviour has a positive relationship with the absence of mental illness (i.e., the absence of mental illness results in an increased chance for fleeing behaviours, in this dataset).
 
 ### Summary/Conclusion
+
+Police involved fatality victims were far more common in age categories 18-25, 25-35, and 35-45. As age group increased, the proportion of victims with mental illness also increased (from 15% in 0-18 to 32% in 65+), suggesting mental illness increases with older age. Those with mental illness accounted for approximately 21% of victims while those without mental illness accounted for approximately 79%. Only 54 individuals with mental illness fled compared to 463 without mental illness, suggesting those who fled police did so in a deliberate manner rather than due to social or perceptual struggles related to mental illness. Just two individuals over 65+ fled police and both did not have mental illness. Older age categories had a smaller proportion of individuals who fled police than younger age categories. The presence of mental illness did not appear to influence how individuals fled police across age groups. Flee rates followed the same pattern for those with and without mental illness, peaking in age group 25-35. 
