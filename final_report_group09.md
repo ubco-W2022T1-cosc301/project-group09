@@ -94,6 +94,9 @@ Based on these results, I don't think that it is safe to assume something like m
 Figure 3 was created to help answer the question "Are Unarmed victims being targeted?". Similar to the above two figures, data was taken from California, Florida and Texas. Upon investigation, all three states seem to have a significantly higher number of armed victims than unarmed victims. In the Unarmed count, toy weapons or objects originally perceived to be weapons are included, as I believe that this would give more accurate results. In the armed category, all weapons excluding null values, toy weapons, and objects such as hairbrushes are not included. In the case of California, 8% of the victims were armed. In Florida, this percentage goes up to 14% and in Texas, the precentage goes back down closer to California with 7%.  
 
 Based on these results, I do not believe that Unarmed victims are being "targeted" in any way. What was interesting about this particular data was that in states such as Texas (where the state is known for being weapon-heavy), the data seems to back up this generalization.
+ 
+Below is a link to the full analysis notebook, full with the data, code, and graphs.
+[analysis notebook 2](https://github.com/ubco-W2022T1-cosc301/project-group09/blob/main/notebooks/analysis2.ipynb)
 
 ### Question 3 & Results (Zack)
 
