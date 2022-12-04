@@ -61,6 +61,8 @@ That said, figure 3 shows that for White individuals, California, Texas and Flor
 
 With these results in mind, I can conclude that the number of cases of police fatalities for specific races do differ based on different US states on which it occurs in. It can also be seen that California is consistent in its position as having one of the highest counts of police fatalities for all races and Texas also showed up as being in the top 3 highest counts for 3 races. Additionally, it should also be noted that on average, Black and White individuals were more common in terms of being victims of police fatalities. Moreover, this leads me to believe that perhaps these results could be influenced by the population of specific races within specific states in the US, along with what the dominant race within specific states and the specific views they hold about other races. 
 
+You can find the [full analysis notebook here, including the code and the data here](https://github.com/ubco-W2022T1-cosc301/project-group09/blob/main/notebooks/analysis1.ipynb)
+
 ### Question 2 & Results (Cameron)
 
 ### Question 3 & Results (Zack)
